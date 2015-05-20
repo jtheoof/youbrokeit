@@ -1,0 +1,9 @@
+Package: youbrokeit
+Version: 0.1
+Section: utils
+Priority: optional
+Architecture: all
+Essential: no
+Depends: python, python-pip, libusb-0.1-4
+Maintainer: Jeremy Attali
+Description: You brake the build, you shall explode.
